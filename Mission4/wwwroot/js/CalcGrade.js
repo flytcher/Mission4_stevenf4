@@ -3,7 +3,7 @@
 ////});
 
 $("#btnSend").click(function () {
-    //Convert inputs to floats and assign them to a variable
+    //Convert inputs to floats and assign them to a variable.
     var asgn = parseFloat($("#asgn").val());
     var gp = parseFloat($("#gp").val());
     var qz = parseFloat($("#qz").val());
